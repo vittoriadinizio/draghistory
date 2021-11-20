@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel = "stylesheet" type = "text/css" href = "INDEX.css">  </head>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<html>
+<body style="background-color:pink;"
+
+
+
+
+
+
+
+}
+</style>
+</head>
+<body>
+
+
+  
+
+   
+
+
+
+    <style>
+
+
+
+
+      .parent {
+        position: relative;
+        top: ;
+        left: 0;
+      
+
+
+
+      }
+      
+     
+      .image1 {
+        transition: transform 0.3s;
+
+        position: relative;
+        top: 100px;
+        left: 570px;
+     
+      }
+      .image1:hover{ 
+        transform: scale(1.2);
+       }
+      
+
+       .image2 {  
+        transition: transform 0.3s;
+        position: absolute;
+        top: 190px;
+        left: 578px;
+
+        }
+        .image2:hover{ 
+        transform: scale(1.2);
+       }
+
+
+      .image3 {
+
+        transition: transform 0.3s;
+        position: absolute;
+        top: 300px;
+        left: 835px;
+
+         }
+
+         .image3:hover{ 
+        transform: scale(1.2);
+       }
+
+      .image4 {
+        transition: transform 0.3s;
+        position: absolute;
+        top: 310px;
+        left: 535px;
+
+         }
+
+          .image4:hover{ 
+        transform: scale(1.2);
+       }
+
+        .image5:hover{ 
+        transform: scale(1.2);
+      }
+      .image5 {
+        transition: transform 0.3s;
+        position: absolute;
+        top: 240px;
+        left: 520px;
+
+          }
+
+           .image6:hover{ 
+        transform: scale(1.2);
+      }
+      .image6 {
+        transition: transform 0.3s;
+        position: absolute;
+        top: 780px;
+        left: 785px;
+
+      }
+
+        .image7 {
+          position: absolute;
+          top: -5px;
+          left: 400px;
+
+        }
+
+
+       
+      }
+      .w3-hover-green .image1{ 
+        transform: scale(1.2);
+
+       }
+
+     }
+
+      .w3-hover-green .image2{ 
+        transform: scale(1.2);
+    </style>
+  </head>
+  <body>
+    <div class="parent">
+      
+      <a href="eyebrows.html">
+     <img class="image1" src="eyebrows.png" width="720px" height="100px"/>
+
+     <a href="eyeshadow.html">
+      <img class="image4" src="blush.png" width="810px" height="560px"/>
+
+      <a href="contour.html">
+      <img class="image3" src="contour.png" width="210px" height="420px"/>
+
+      <a href="blush.html">
+      <img class="image2" src="eyeshadow.png" width="710px" height="190px" />
+
+      <a href="ilovekenzo.html">
+       <img class="image5" src="eyelashes.png" width="850px" height="300px"/>
+
+       <a href="lips.html">
+        <img class="image6" src="lips.png" width="300px" height="200px"/>
+
+        <img class="image7" src="texttext.gif" width="1100px" height="100px"/>
+    </div>
+  </body>
+    
+</div>
+
+
+
+
+</body>
+</html>
+
